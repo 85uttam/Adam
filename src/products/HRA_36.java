@@ -1,5 +1,8 @@
 package products;
 
-public class HRA_36 {
+import base.Browsers;
+
+public class HRA_36 extends Browsers
+{
 
 }
